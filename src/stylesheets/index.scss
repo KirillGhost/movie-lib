@@ -1,0 +1,20 @@
+body {
+  background: #f9f9f9;
+}
+
+.footer {
+  width: 20%;
+  text-align: center;
+}
+
+.btn {
+  margin: 10px 5px;
+}
+
+.nav-link {
+  cursor: pointer;
+
+  &:hover {
+    color: #007bff;
+  }
+}
